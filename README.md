@@ -104,18 +104,3 @@ Cypress E2E tests for basic component functionality.
 Simple animations for adding items to the cart.
 
 
-#### Project Structure
-project-folder/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── stores/        # MobX stores
-│   ├── context/       # Context API
-│   ├── assets/
-│   ├── App.js
-│   └── index.js
-│
-├── package.json
-├── README.md
-└── .gitignore
